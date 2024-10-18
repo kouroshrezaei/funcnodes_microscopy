@@ -14,11 +14,9 @@ classifiers = [
 [tool.poetry.urls]
 homepage = "https://linkdlab.de/"
 repository = "https://github.com/linkdlab/funcnodes_microscopy"
-source = ""
-tracker = ""
-documentation = ""
+source = "https://github.com/linkdlab/funcnodes_microscopy"
+tracker = "https://github.com/linkdlab/funcnodes_microscopy/issues"
 download = "https://pypi.org/project/funcnodes-microscopy/#files"
-"release notes" = ""
 
 [tool.poetry.dependencies]
 python = ">=3.11"
