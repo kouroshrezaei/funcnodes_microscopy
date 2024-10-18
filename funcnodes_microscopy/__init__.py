@@ -2,7 +2,7 @@ import funcnodes as fn
 from .SEM import SEM_NODE_SHELF
 from .segmentation import SEGMENTATION_NODE_SHELF
 
-__version__ = "0.0.1"
+__version__ = "0.0.2"
 
 NODE_SHELF = fn.Shelf(
     nodes=[],
