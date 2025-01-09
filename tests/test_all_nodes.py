@@ -2,7 +2,7 @@ import sys
 import os
 import unittest
 import funcnodes as fn
-from tests import test_segmentation, test_SEM  
+from tests import test_segmentation, test_SEM  # noqa: E402
 
 sys.path.append(
     os.path.dirname(os.path.abspath(__file__))
