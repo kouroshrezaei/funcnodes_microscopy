@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "funcnodes-microscopy"
-version = "0.0.2"
+version = "0.0.3"
 description = ""
 authors = ["Kourosh Rezaei <kourosh.rezaei@linkdlab.de>"]
 readme = "README.md"
@@ -13,7 +13,7 @@ classifiers = [
 
 [tool.poetry.urls]
 homepage = "https://github.com/linkdlab/funcnodes_microscopy"
-repository = "https://github.com/linkdlab/funcnodes_microscopy"
+# repository = "https://github.com/linkdlab/funcnodes_microscopy"
 source = "https://github.com/linkdlab/funcnodes_microscopy"
 tracker = "https://github.com/linkdlab/funcnodes_microscopy/issues"
 download = "https://pypi.org/project/funcnodes-microscopy/#files"
